@@ -1,0 +1,27 @@
+CRIANDO ESTRUTURA DA PAGINA
+vamos criar sempre paginas <!DOCTYPE html>....
+estrutura inicial:
+<html>
+,,,,,
+</html>
+
+Grandes Blocos :
+</HEAD> (cabecario)
+,,,,    Titulo (<title> "..........." </title>)
+</HEAD>
+
+<body>
+ <h1> txtttttttttt </h1>  usada pra da destaque ao texto.
+ <h3> txttt </h3> vai diminuindo o destaque do Titulo (tamanho da fonte.)
+ pode usar 1 ou mais H's 
+ <img para add imagem (width usa pra mudar o tamanho da imagem)
+ <p> adicionar um paragrafo </p> tag <br> = quebra de linha"
+colocar em negrito <strong> "txtttttttttttt" </strong>
+tag "a" para colocar algum hiperlink (>Colocar o texto pra onde o hiperlink vai levar<)
+target = _blanc >>>> leva pra uma nova aba
+tag em deixa em italico
+
+tag UL/OL serve pra criar uma lista.
+tag li dentro, para cada linha que for inserir
+
+</body>
